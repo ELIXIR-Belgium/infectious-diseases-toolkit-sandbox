@@ -1,8 +1,8 @@
 ---
-title: Data description
-description: Finding (meta)data standards and documentation
+title: Attributing credit
+description: Referencing your sources (citations and recognition of contributions)
 contributors: []
-page_id: sei_data_description
+page_id: sed_attributing_credit
 rdmkit:
   - name:
     url:
@@ -10,7 +10,7 @@ related_pages:
   showcase: []
   human_biomolecular_data: []
   human_clinical_and_health_data: []
-  social_and_economic_impact: []
+  socioeconomic_data: []
   pathogen_characterisation: []
 training:
   - name:
@@ -18,3 +18,4 @@ training:
     url:
 # More information on how to fill in this metadata section can be found here https://www.infectious-diseases-toolkit.org/contribute/page_metadata
 ---
+

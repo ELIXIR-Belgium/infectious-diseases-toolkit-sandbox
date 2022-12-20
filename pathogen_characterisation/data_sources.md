@@ -10,7 +10,7 @@ related_pages:
   showcase: []
   human_biomolecular_data: []
   human_clinical_and_health_data: []
-  social_and_economic_impact: [sei_data_sources]
+  socioeconomic_data: [sed_data_sources]
   pathogen_characterisation: []
 faircookbook:
 - name: Link towards a FAIRCOOKBOOK recipe
