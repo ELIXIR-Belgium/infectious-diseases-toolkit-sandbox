@@ -6,7 +6,7 @@ The website is build on GitHub using Jekyll, a simple, static site generator bas
 
 Make sure you have cloned the infectious-diseases-toolkit repo:
 
-    git clone git@github.com:elixir-europe/infectious-diseases-toolkit.git
+    git clone git@github.com:ELIXIR-Belgium/infectious-diseases-toolkit-sandbox.git
     cd infectious-diseases-toolkit
 
 
