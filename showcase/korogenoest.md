@@ -131,9 +131,6 @@ Synlab team: Andrio Lahesaare, Paul Naaber, Krislin Raus, Kaspar Ratnik
 
 Estonian Health Board team: Mari-Anne Härma, Heiki Niglas, Liidia Dotsenko, Olga Sadikova, Hanna Sepp, Heleene Suija, Jevgenia Epštein 
 
-![image](https://user-images.githubusercontent.com/29224182/232409906-1da13ba5-ec13-4c6c-9283-f68336bc0aa6.png)
-
-
 <!--- In this section you should provide a brief summary of the uses of the showcase, i.e. when you would use this showcase resource ---> 
 
 <!---Information about contributors will be added to the CONTRIBUTORS.yaml . Further instructions can be found at https://www.infectious-diseases-toolkit.org/contribute/editorial-board-guide#adding-extra-info-to-the-contributors --->
