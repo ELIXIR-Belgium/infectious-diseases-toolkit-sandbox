@@ -1,8 +1,8 @@
 ---
-title: Linked Cohort Data
+title: Linked pathogen and host data across archives - a multi-omics, SARS-CoV-2 cohort case study
 contributors: [Gabriele Rinck, Zahra Waheed] 
-description: Here we describe the first example of linking and sharing a cohort data set via the EMBL-EBI infrastructure. 
-affiliations: [ELIXIR Europe]
+description: Here we describe the first example of linking and sharing a COVID-19, multi-omics cohort data set via the EMBL-EBI infrastructure. 
+affiliations: [EMBL-EBI]
 page_id: LinkedCohortData
 
 # More information on how to fill in this metadata section can be found here https://www.infectious-diseases-toolkit.org/contribute/page-metadata
@@ -12,16 +12,18 @@ page_id: LinkedCohortData
 
 <!--- Showcase pages should detail a particular combination of standards and tools from an infrastructural or domain perspective to tackle infectious diseases related data challenges. --->
 
-## Introduction 
+## The importance of data integration 
 
-Cohort studies produce invaluable data typically including a range of different data types, such as clinical as well as multi-omics data. Often these data types are siloed in archives specific for each data type. Linking these data types on a participant level across different archives adds more depth to the dataset by bringing the pathogen/host data into context, allowing a more comprehensive analysis of the shared data. Here we describe the first example of linking and sharing a cohort data set via the EMBL-EBI infrastructure. 
+Cohort studies produce invaluable data typically including a range of different data types, such as clinical (e.g. patient health records, blood markers, treatment details) as well as multi-omics data (such as genomic sequence, transcriptomic or proteomic data). However, often these data types are siloed in archives specific for each type. Data integration, i.e, linking these data types on a participant level across different repositories, adds more depth to the dataset by bringing the pathogen and host data into context, allowing a more comprehensive analysis of the entire collection of data. 
+Here we describe the first example of linking and sharing a multi-omics SARS-CoV-2 cohort dataset with multiple time points, via the European Molecular Biology Laboratory-European Bioinformatics Institute’s (EMBL-EBI) infrastructure. 
+
 
 ## Who is the SHOWCASE intended for?
 
-<!--- In this section you should provide a brief account of the target audience or intended users for the showcase --->
-
-This showcase is intended for any groups who would like to FAIRly share cohort study data, and would like to better understand how this can be performed. More broadly, the linking mechanism described here is applicable to any group whose research involves different types of molecular data being obtained from the same biological sample. 
+This showcase is intended for any groups who would like to FAIRly share cohort study data, and would like to better understand how this can be performed. More broadly, the linking mechanism described below is applicable to any group whose research involves different types of molecular data being obtained from the same biological sample. 
 The showcase will also be useful for those wishing to access linked clinical and multi-omics data from cohort studies. 
+
+## The process of sharing a Linked Cohort Dataset
 
 **Image goes here** 
 Figure N provides an overview of the data integration process across the EMBL-EBI archives. 
