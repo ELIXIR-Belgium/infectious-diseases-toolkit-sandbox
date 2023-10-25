@@ -67,16 +67,19 @@ This is particularly important in public health but will equally provide a bette
 
 ## Acknowledgements
 ### ReCoDID Project Team Members
-The work presented here was a coordinated effort of multiple teams covering the different aspects of the process: 
-**Data collection and submissions** were coordinated by the Viroscience department at Erasmus Medical Centre (EMC), Rotterdam, NL:
-Clara Amid, Janko van Beek, Gijs van Nierop, Rory de Vries, Marion Koopmans.
-**Harmonisation of clinical-epidemiological data** was performed at the University Hospital Heidelberg, Germany:
-Frank Tobian, Thomas Jänisch. 
-The infrastructure for data sharing and support for the data linking process was provided by EMBL-EBI, Hinxton, UK:
-Gabriele Rinck, Zahra Waheed, Nadim Rahman, Marcos Casado Barbero, Mallory Freeberg, Dipayan Gupta, Anja Füllgrabe, Ugis Sarkans, Guy Cochrane.
+The work presented here was a coordinated effort of multiple teams covering the different aspects of the process:    
 
-Additional people who have contributed:
-Coline Thomas, Marianna Ventouratou, Guy Cochrane, Suran Jayathilaka, Vishnukumar Balavenkataraman Kadhirvelu
+**Data collection and submissions** were coordinated by the Viroscience department at Erasmus Medical Centre (EMC), Rotterdam, NL:    
+Clara Amid, Janko van Beek, Gijs van Nierop, Rory de Vries, Marion Koopmans.    
+
+**Harmonisation of clinical-epidemiological data** was performed at the University Hospital Heidelberg, Germany:    
+Frank Tobian, Thomas Jänisch.    
+
+The **infrastructure for data sharing and support for the data linking process** was provided by EMBL-EBI, Hinxton, UK:    
+Gabriele Rinck, Zahra Waheed, Nadim Rahman, Marcos Casado Barbero, Mallory Freeberg, Dipayan Gupta, Anja Füllgrabe, Ugis Sarkans, Guy Cochrane.    
+
+Additional people who have contributed:    
+Coline Thomas, Marianna Ventouratou, Guy Cochrane, Suran Jayathilaka and Vishnukumar Balavenkataraman Kadhirvelu.
 
 ### Support
 ReCoDID project is funded by the European Union’s Horizon 2020 Research and Innovation Programme, grant agreement N° 825746, and the Canadian Institutes of Health Research, Institute of Genetics (CIHR-IG), grant agreement N° 01886-000.
