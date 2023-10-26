@@ -2,6 +2,8 @@
 title: Data analysis
 description: Generic workflows for different data types
 contributors: []
+no_robots: true
+search_exclude: true
 page_id: hchd_data_analysis
 rdmkit:
   - name:
