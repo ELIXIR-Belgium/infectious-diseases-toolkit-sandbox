@@ -237,7 +237,7 @@ This page discusses infectious disease research in Norway and provides informati
 
 ## Health Authorities in Norway
 <!--- A section to list and provide context to agencies/authorities/institutions which define public health measures and policies --->
-The [Norwegian Directorate of Health](https://www.helsedirektoratet.no/english) (Helsedirektoratet), the [Norwegian Veterinary Institute](
+The [Norwegian Directorate of Health](https://www.helsedirektoratet.no/english) (Helsedirektoratet), the [Norwegian Veterinary Institute]
 (https://www.vetinst.no/en) and the [Norwegian Institute of Public Health](https://www.fhi.no/en/) (Folkehelseinstituttet, referred to as FHI from here onwards) work jointly to provide an effective and coordinated effort towards the prevention and control of infectious diseases. The agencies also ensure that public health data is collected, stored, and shared in compliance with applicable laws and regulations.
 
 The Directorate of Health monitors public health issues to develop national guidelines and strategies for surveillance, prevention, and response activities. Together with local health authorities and healthcare providers, the directorate implements relevant policies and communicates these guidelines to the public. The directorate coordinated the national response to the COVID-19 pandemic, establishing national recommendations for testing, tracing, and isolation.
@@ -248,7 +248,7 @@ The FHI advises health authorities on public health issues, including disease pr
 
 Several governmental organisations collaborate with FHI to monitor pathogenic data and support surveillance initiatives:
 * [The Norwegian Environment Agency](https://www.environmentagency.no) oversees detection of pathogens in wastewater and tracks occurrences of antimicrobial resistance (AMR) in natural areas and wild species. The agency is known as [Miljødirektoratet](https://www.miljodirektoratet.no) in Norwegian and has a Norwegian homepage too.
-* The [Norwegian Veterinary Institute]((https://www.vetinst.no/en) conducts surveillance programs montitoring terrestrial and aquatic animal diseases under the direction of the [Norwegian Food Safety Authority](https://www.mattilsynet.no/language/english/) (Mattilsynet) which is working towards ensuring the safety of food and drinking water in Norway.
+* The [Norwegian Veterinary Institute](https://www.vetinst.no/en) conducts surveillance programs montitoring terrestrial and aquatic animal diseases under the direction of the [Norwegian Food Safety Authority](https://www.mattilsynet.no/language/english/) (Mattilsynet) which is working towards ensuring the safety of food and drinking water in Norway.
 * [The Norwegian Medicines Agency](https://legemiddelverket.no/English) (Legemiddelverket) regulates and supervises medicine, medical devices, and clinical trials in Norway.
 In addition to the national-level health authorities and agencies, there are regional/municipality-level efforts taking place across hospitals in Norway to combat infectious diseases:
 * [Norwegian National Advisory Unit on Tropical Infectious Diseases](https://helse-bergen.no/nasjonal-kompetansetjeneste-for-tropiske-infeksjonssykdommer/norwegian-national-advisory-unit-on-tropical-infectious-diseases)
