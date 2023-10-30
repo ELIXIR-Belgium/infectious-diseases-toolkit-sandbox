@@ -7,7 +7,6 @@ contributors:
   - Liane Hughes
   - Flora D'Anna
   - Diana Pilvar
-no_robots: true
 page_id: pc_data_description
 rdmkit:
   - name: "Your tasks: Documentation and metadata"
